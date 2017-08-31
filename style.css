@@ -1,0 +1,27 @@
+@media screen and (min-width: 1292px) {
+#page_header{width: 100%;}
+#ts_wrap{padding-left: calc(100% - 1444px)}
+#page_body{calc(100% - 176px);}
+#page_layout{width: calc(100% - 284px);}
+.im-right-menu{right:calc(100% - 1765px);}
+.im-page_classic.im-page{width: calc(100% - 238px);}
+.im-page_classic.im-page .im-page--header, .im-page_classic .im-page--chat-header, .im-page_classic.im-page .im-page--chat-input{max-width:none; width:calc(100% - 689px);}
+.im-chat-input.im-chat-input_classic .im-chat-input--textarea{width:calc(100% - 87px);}
+.im-page_classic.im-page .im-mess:not(.im-mess_fwd){max-width:100%;}
+.im-page_classic.im-page .im-mess-stack{max-width: calc(100%);}
+._im_peer_history .im-page-chat-contain{max-width:100%;}
+._im_peer_history .im-page-chat-contain{width:calc(100% - 1087px);}
+.im-page_classic.im-page .im-mess:not(.im-mess_fwd).im-mess_unread:not(.im-mess_selected){max-width: 100%;}
+.im-chat-input .im-chat-input--textarea{width: calc(100% - 102px);}
+.nim-dialog.nim-dialog_classic.nim-dialog_unread-out .nim-dialog--inner-text{max-width: 100%; width: 100%;}
+.im-page_classic.im-page .im-page--dialogs-footer{width: 100%; max-width: calc(100% - 689px);}
+//.page_cover{width: 365px;}
+.top_audio_player{max-width: 100%;}
+span.nim-dialog--inner-text{}
+.audio_page_layout .has_friends_block .audio_page__rows_wrap{width: calc(100% - 239px);}
+#dev_page_wrap2{width:calc(100% - 240px);}
+.no_wrap_cont .dev_page_cont_wrap{width:100%;}
+.apps_manage_layout{width:100%;}
+.apps_manage_layout .app_settings_info{width:calc(100% - 313px);}
+.audio_section.audio_w_covers._audio_section._audio_section__current audio_section__current{margin-left:-20px;}
+}
